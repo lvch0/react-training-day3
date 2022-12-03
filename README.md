@@ -1,6 +1,6 @@
 # react-training-day3
 
-Implementación de "guards" (concepto propio de Angular) para gestión de acceso a diferentes rutas de tipo público o privado, según niveles de acceso.
+Implementación de "guards" (concepto propio de Angular) para gestión de acceso a diferentes rutas de tipo público o privado, según niveles de jerarquía.
 
 # TypeScript
 
