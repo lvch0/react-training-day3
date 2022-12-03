@@ -10,5 +10,5 @@ Implementación de "guards" (concepto propio de Angular) para gestión de acceso
 # Guards
   - Rutas Privadas y Rutas Públicas
   
-# Redux
+# Redux/Redux Toolkit
   - Creación de store para persistencia de usuarios y sus roles
